@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Muhammad Noman 👋
+### 🚀 Backend Developer & Aspiring MLOps Engineer
 
-<!--
-**muhammadnoman550/muhammadnoman550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer from Karachi, bridging the gap between robust backend systems and Machine Learning Operations (MLOps). Currently focusing on building reliable backend architectures and preparing for automated AI pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+#### 💻 Backend & Core Development
+* **Languages:** Python (Core Concepts)
+* **Frameworks:** FastAPI, Django
+* **Authentication:** JWT (JSON Web Tokens)
+
+#### 🗄 Databases & ORM (Current Focus 🎯)
+* **Relational:** MySQL (Clear concepts of JOINs & writing practical queries), PostgreSQL (Learning next)
+* **ORMs:** Learning SQL Alchemy / Tortoise-ORM soon
+
+#### 📊 Data Science & ML Core (Future Toolkit)
+* **Data Manipulation:** NumPy, Pandas
+* **Model Tracking:** MLflow *(Target)*
+
+#### 🐋 DevOps & Deployment (Future Toolkit)
+* **Containerization:** Docker
+* **Version Control:** Git & GitHub
+
+---
+
+### 🗺 My Learning Roadmap (2026)
+
+- [x] **Phase 1:** Core Backend (Python, FastAPI, JWT)
+- [x] **Phase 2:** SQL Basics & Database Design (MySQL Joins & Queries)
+- [/] **Phase 3:** PostgreSQL & ORM Basics *(In Progress)*
+- [ ] **Phase 4:** Deep Python Revision (Basic to Advanced concepts)
+- [ ] **Phase 5:** Data Science Libraries (NumPy, Pandas for Data Pipelines)
+- [ ] **Phase 6:** DevOps & MLOps Foundations (Docker, CI/CD, MLflow)
+
+---
+
+### 📈 GitHub Stats
+![Noman Stats](https://github-readme-stats.vercel.app/api?username=muhammadnoman550&show_icons=true&theme=dark)
