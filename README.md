@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Noman 👋
+# Hi, I'm Muhammad Bashar 👋
 ### 🚀 Backend Developer & Aspiring MLOps Engineer
 
 I am a passionate developer from Karachi, bridging the gap between robust backend systems and Machine Learning Operations (MLOps). Currently focusing on building reliable backend architectures and preparing for automated AI pipelines.
