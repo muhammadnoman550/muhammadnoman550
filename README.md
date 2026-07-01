@@ -9,7 +9,7 @@ I am a passionate developer from Karachi, bridging the gap between robust backen
 
 #### 💻 Backend & Core Development
 * **Languages:** Python (Core Concepts)
-* **Frameworks:** FastAPI, Django
+* **Frameworks:** FastAPI
 * **Authentication:** JWT (JSON Web Tokens)
 
 #### 🗄 Databases & ORM (Current Focus 🎯)
