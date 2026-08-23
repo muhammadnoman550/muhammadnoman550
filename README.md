@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Bashar 👋
+# Hi, I'm Muhammad Noman 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=550&lines=Python+Backend+Developer;Aspiring+MLOps+%26+LLMOps+Engineer;FastAPI+%26+Automated+Pipelines)
 
