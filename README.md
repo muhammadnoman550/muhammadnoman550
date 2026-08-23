@@ -1,16 +1,19 @@
 <div align="center">
 
-<!-- Animated Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi%20There,%20I'm%20Muhammad%20Noman%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
+<!-- Top Cyber Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=bg:0d1117,0:00F2FE,100:4FACFE&height=200&section=header&text=MUHAMMAD%20NOMAN&fontSize=48&fontColor=ffffff&stroke=00F0FF&strokeWidth=2&animation=twinkling&fontAlignY=40" width="100%"/>
 
-<!-- Animated Typing Subtitle -->
+<!-- Neon Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=750&lines=Python+Backend+%26+Microservices+Architect;Full-Stack+System+Integrator+(FastAPI+%2B+React);MLOps+%26+LLMOps+Infrastructure+Specialist;Building+RAG,+AI+Agents+%26+Agentic+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=800&lines=%E2%9A%A1+PYTHON+BACKEND+%26+SYSTEMS+ENGINEER;%F0%9F%A4%96+MLOPS+%26+LLMOPS+INFRASTRUCTURE+SPECIALIST;%F0%9F%94%A5+BUILDING+RAG%2C+AI+AGENTS+%26+AGENTIC+WORKFLOWS;%F0%9F%92%A1+FULL-STACK+INTEGRATION+(FASTAPI+%2B+REACT)" alt="Typing SVG" />
 </a>
 
+<br><br>
+
+<!-- Dynamic Animated Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-bashar-786a47348" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Bashar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/muhammad-noman-786a47348" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/muhammadnoman550">
     <img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -22,17 +25,16 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## ⚡ Executive Summary
+## ⚡ Developer Dossier
 
 ```yaml
-Identity:
-  Name: Muhammad Noman (Muhammad Bashar)
-  Role: Python Backend & AI Infrastructure Engineer
-  Experience: 1.5+ Years Dedicated Learning in Data, Systems & ML
-  Location: Karachi, Pakistan 🇵🇰
-
-Core Focus & Vision:
-  Primary Target: Production MLOps, LLMOps, Multi-Agentic AI Systems & NLP Architecture
-  Secondary Skill: Full-Stack Web Interface Integration (FastAPI + Modern Web UI)
+Core Profile:
+  Name: Muhammad Noman
+  Role: Python Backend & AI/MLOps Systems Specialist
+  Experience: 1.5+ Years Dedicated System Architecture & Logic Building
+  Primary Focus: Scalable APIs, Vector DBs, Multi-Agent AI & MLOps Infrastructure
+  Secondary Focus: Basic UI Integration (HTML/CSS/JS/React) for AI Dashboards
