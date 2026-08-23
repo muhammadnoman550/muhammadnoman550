@@ -45,5 +45,5 @@ I am a passionate Python Backend Developer from Karachi, Pakistan, specializing 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadnoman550&show_icons=true&theme=tokyonight&hide_border=true" alt="Bashar Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadnoman550&show_icons=true&theme=tokyonight&hide_border=true" alt="Noman Stats" />
 </p>
