@@ -5,9 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=65&lines=Python+Backend+Developer;Building+Reliable+APIs;Exploring+AI+Engineering;Future+Quantum+Software+%26+QML" alt="Animated introduction" />
 
 <p>
-  <a href="https://github.com/muhammadnoman550">
-    <img src="https://img.shields.io/badge/GitHub-muhammadnoman550-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
+  
   <a href="https://www.linkedin.com/in/muhammad-noman-786a47348">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
