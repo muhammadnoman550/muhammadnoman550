@@ -2,21 +2,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;AI+Engineering+Enthusiast;Aspiring+MLOps+%2F+LLMOps+Engineer;Future+Quantum+Machine+Learning+Researcher" alt="Animated professional title" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;AI+Engineering+Enthusiast;Aspiring+MLOps+%2F+LLMOps+Engineer;Future+Quantum+Software+%26+QML" alt="Animated career title" />
 
 **Python Backend Developer | AI Engineering | Aspiring MLOps / LLMOps Engineer**
 
-Karachi, Pakistan · [GitHub](https://github.com/muhammadnoman550) · [LinkedIn](https://www.linkedin.com/in/muhammad-noman-786a47348)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:4169E1&height=3&section=header" width="100%" alt="Blue divider" />
+[![GitHub](https://img.shields.io/badge/GitHub-muhammadnoman550-181717?style=for-the-badge&logo=github)](https://github.com/muhammadnoman550)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Noman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-noman-786a47348)
+![Location](https://img.shields.io/badge/Location-Karachi%2C_Pakistan-00875A?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
+---
+
 ## Professional Summary
 
-I am a Python developer focused on backend engineering, API development, database systems, and AI-powered applications. My current focus is building reliable backend services with Python and FastAPI while developing the skills required to integrate modern AI systems into production applications.
+I am a Python developer focused on backend engineering, API development, database systems, and AI-powered applications. I am building my expertise in Python and FastAPI while developing practical software engineering skills.
 
-My long-term engineering interests include **MLOps, LLMOps, Agentic AI, and Quantum Machine Learning (QML)**. I aim to progress from backend and AI application development toward scalable AI infrastructure, with a future transition into quantum computing and machine learning at the intersection of these fields.
+My long-term goal is to **master backend engineering, specialize in AI engineering, and build reliable, production-ready AI systems**. I aim to develop expertise in MLOps, LLMOps, and Agentic AI before expanding into quantum software development and Quantum Machine Learning (QML).
+
+I am particularly interested in the intersection of software engineering, intelligent systems, and emerging quantum technologies.
 
 ## Technical Skills
 
@@ -26,27 +30,31 @@ My long-term engineering interests include **MLOps, LLMOps, Agentic AI, and Quan
   <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Python HTML CSS JavaScript icons" />
 </p>
 
-### Backend Engineering & APIs
+### Backend Engineering & API Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI icon" />
-  <img src="https://img.shields.io/badge/REST_API-API_Development-0A66C2?style=for-the-badge&logo=postman&logoColor=white" alt="REST API development" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="50" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
 </p>
 
-- REST API development
-- Authentication & authorization
+- Python backend development
+- FastAPI and REST API development
+- HTTP methods and API integration
+- Authentication and authorization
 - JWT-based authentication
 
-### Databases
+### Databases & Data Management
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL icon" />
-  <img src="https://img.shields.io/badge/SQL-Relational_Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL and relational databases" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 - MySQL
-- Relational database design
+- SQL queries and relational databases
+- Database integration with backend APIs
+- Relational database design fundamentals
 
 ### Development Tools & Infrastructure
 
@@ -54,49 +62,40 @@ My long-term engineering interests include **MLOps, LLMOps, Agentic AI, and Quan
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Git GitHub Docker Linux VS Code icons" />
 </p>
 
-- Git & GitHub
-- Docker
-- Linux — Learning
+- Git and GitHub
+- Docker and containerization
+- Linux command line
 
-## Current Engineering Focus
+### AI Engineering & Future Specialization
 
-- Designing and developing Python backend applications
-- Building REST APIs with FastAPI
-- Integrating relational databases with backend services
-- Connecting frontend applications to backend APIs
-- Exploring AI application architecture and agent-based workflows
-- Improving software engineering practices through practical projects
-
-## Career Roadmap
-
-### 01 — Backend Engineering
-
-Strengthen Python, FastAPI, SQL, API architecture, authentication, testing, and deployment.
-
-### 02 — AI Engineering
-
-Build AI-powered applications, LLM integrations, and agentic workflows.
-
-### 03 — MLOps & LLMOps
-
-Develop expertise in model deployment, inference pipelines, monitoring, evaluation, and reliable AI systems in production.
-
-### 04 — Quantum Machine Learning
-
-Explore quantum computing fundamentals, linear algebra, quantum algorithms, and quantum machine learning frameworks such as Qiskit and PennyLane, with the long-term goal of working on quantum-classical machine learning systems.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=7B61FF&center=true&vCenter=true&width=750&lines=Backend+Engineering+%E2%86%92+AI+Engineering;AI+Engineering+%E2%86%92+MLOps+%2F+LLMOps;Long-term+Direction+%E2%86%92+Quantum+Machine+Learning" alt="Animated career roadmap" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7B61FF?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/MLOps-008F6B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/LLMOps-6E40C9?style=for-the-badge&logo=openai&logoColor=white" alt="LLMOps" />
 </p>
+
+### Quantum Software & Quantum Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Quantum_Software-2563EB?style=for-the-badge&logo=atom&logoColor=white" alt="Quantum software" />
+  <img src="https://img.shields.io/badge/Quantum_Machine_Learning-7C3AED?style=for-the-badge&logo=atom&logoColor=white" alt="Quantum Machine Learning" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" alt="Qiskit — future learning" />
+  <img src="https://img.shields.io/badge/PennyLane-FF9F1C?style=for-the-badge&logoColor=white" alt="PennyLane — future learning" />
+</p>
+
+*Quantum software and QML represent my long-term technical interests.*
 
 ## Areas of Interest
 
 - Backend & Distributed Systems
-- Artificial Intelligence & LLM Applications
-- Agentic AI
+- API Architecture and Software Engineering
+- AI Engineering and LLM Applications
+- Agentic AI and Intelligent Automation
 - Machine Learning Infrastructure
-- MLOps & LLMOps
-- Quantum Computing & Quantum Machine Learning
+- MLOps and LLMOps
+- Quantum Software Development
+- Quantum Machine Learning (QML)
 
 ## GitHub Analytics
 
@@ -112,25 +111,23 @@ Explore quantum computing fundamentals, linear algebra, quantum algorithms, and 
 
 </div>
 
-## Connect
+## Connect With Me
 
-<p align="left">
-  <a href="https://github.com/muhammadnoman550">
-    <img src="https://img.shields.io/badge/GitHub-muhammadnoman550-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-noman-786a47348">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Noman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-</p>
+<div align="center">
 
-📍 Karachi, Pakistan
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadnoman550)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-786a47348)
+
+📍 Karachi, Pakistan 🇵🇰
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:00D9FF&height=100&section=footer" width="100%" alt="Decorative footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+reliable+backend+systems.;Engineering+intelligent+AI+applications.;Exploring+Quantum+Software+%26+QML." alt="Animated closing statement" />
 
-*Building reliable software today. Exploring intelligent systems and quantum computing for tomorrow.*
+**Building reliable software today. Exploring intelligent systems and quantum computing for tomorrow.**
 
 </div>
